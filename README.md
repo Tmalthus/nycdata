@@ -58,3 +58,13 @@ Those high-high and low-low areas are those where the population and arrest dens
 The low-high and high-low areas are those which show that some other factors must influence the arrest rates, because that linking relationship is not followed.  
 
 
+# Neighbourhood area mapping 2010 definitions   
+
+## NTA 2010 pop density  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_pop_dens.png" />  
+
+## NTA 2010 arrest density  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_arrest_dens.png" />  
+
+## NTA 2010 High Low Cluster Map of population and arrest densities  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_dens_BiLISA_cluster_pop_arrest.png" />  
