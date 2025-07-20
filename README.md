@@ -33,7 +33,7 @@ https://data.cityofnewyork.us/City-Government/Emergency-Food-Supply-Gap/4kc9-zrs
 # Census mapping  
 
 ## Population Density on 2020 census tracts  
-<img width="2928" height="1926" alt="Image" src="https://github.com/user-attachments/assets/c658bd50-7627-40b4-84dd-d1daaffcefdb" />  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_pop_dens.png" />  
 
 Many areas in New York have high population density, especially the boroughs of Manhattan, Brooklyn, The Bronx, and the central portion of Queens.  
 
