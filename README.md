@@ -35,11 +35,19 @@ https://data.cityofnewyork.us/City-Government/Emergency-Food-Supply-Gap/4kc9-zrs
 ## Population Density on 2020 census tracts  
 <img width="2928" height="1926" alt="Image" src="https://github.com/user-attachments/assets/c658bd50-7627-40b4-84dd-d1daaffcefdb" />  
 
+Many areas in New York have high population density, especially the boroughs of Manhattan, Brooklyn, The Bronx, and the central portion of Queens.  
+
+My expectation is that arrests would be highest in areas of the highest population density, assuming that some rate of all people would commit crimes, so more arrests would follow more people.  
+
 ## Arrest Density on 2020 census tracts  
 <img width="2928" height="1926" alt="Image" src="https://github.com/user-attachments/assets/1dd9169a-cc95-4d8d-8dd2-714abeda91c4" />  
 
+In this map of arrest density we see that many areas which have high population density also have high density of arrest records. This somewhat follows my expectation.  
+However some areas of high population density have low arrest rates, like the southern parts of Brooklyn, and western parts of Queens. There are also areas with low population density and high arrest rates, particularly south west of Central Park.  
+
 ## Scatter plot of Population Density on Arrest Density
 <img width="2544" height="1378" alt="Image" src="https://github.com/user-attachments/assets/f15268f7-84fd-4257-816e-90da1bfbbb2b" />  
+
 
 ## High Low Cluster Map of Population and Arrest Densities  
 <img width="2600" height="1472" alt="Image" src="https://github.com/user-attachments/assets/249f4786-dbee-4518-8b3d-b7df12c9dadf" />  
