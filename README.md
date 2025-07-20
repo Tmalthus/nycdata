@@ -68,3 +68,21 @@ The low-high and high-low areas are those which show that some other factors mus
 
 ## NTA 2010 High Low Cluster Map of population and arrest densities  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_dens_BiLISA_cluster_pop_arrest.png" />  
+
+# Neighbourhood area mapping 2020 definitions   
+
+## NTA 2020 arrest rates  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrest_counts.png" />  
+
+## NTA 2020 food insecurity  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_foodinsecurity_yellow_high.png" />  
+
+## NTA 2020 unemployment estimates  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_unemployment_yellow_high.png" />  
+
+## NTA 2020 vulnerable populations  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_vulnerable_pop_yellow_high.png" />  
+
+## Pairs plot of arrest rates and food and vulnerability estimates  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrests_food_insecurity_pairs.png" />  
+
