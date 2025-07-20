@@ -40,14 +40,21 @@ Many areas in New York have high population density, especially the boroughs of 
 My expectation is that arrests would be highest in areas of the highest population density, assuming that some rate of all people would commit crimes, so more arrests would follow more people.  
 
 ## Arrest Density on 2020 census tracts  
-<img width="2928" height="1926" alt="Image" src="https://github.com/user-attachments/assets/1dd9169a-cc95-4d8d-8dd2-714abeda91c4" />  
+<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_arrest_dens.png" />  
 
 In this map of arrest density we see that many areas which have high population density also have high density of arrest records. This somewhat follows my expectation.  
 However some areas of high population density have low arrest rates, like the southern parts of Brooklyn, and western parts of Queens. There are also areas with low population density and high arrest rates, particularly south west of Central Park.  
 
 ## Scatter plot of Population Density on Arrest Density
-<img width="2544" height="1378" alt="Image" src="https://github.com/user-attachments/assets/f15268f7-84fd-4257-816e-90da1bfbbb2b" />  
+<img width="2544" height="1378" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_dens_scatter.png" />  
 
+This scatter plot shows the relationship between population density and arrest density. A correlation of 0.258 shows a weak positive relationship between pop density and arrest density. My expectation was incorrect, arrest rates are not tied strongly to population density. Most census tracts, across a wide range of population densities, have low arrest rates.   
 
 ## High Low Cluster Map of Population and Arrest Densities  
-<img width="2600" height="1472" alt="Image" src="https://github.com/user-attachments/assets/249f4786-dbee-4518-8b3d-b7df12c9dadf" />  
+<img width="2600" height="1472" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_dens_BiLISA_cluster_pop_arrest.png" />  
+
+This plot shows clusters of tracts with high-high, low-low, low-high, and high-low incidences of population and arrest density.  
+Those high-high and low-low areas are those where the population and arrest densities are similar, and follow that weak positive relationship linking the densities.  
+The low-high and high-low areas are those which show that some other factors must influence the arrest rates, because that linking relationship is not followed.  
+
+
