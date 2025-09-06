@@ -43,7 +43,7 @@ https://data.cityofnewyork.us/Social-Services/Directory-Of-Homebase-Locations/nt
 
 Many areas in New York have high population density, especially the boroughs of Manhattan, Brooklyn, The Bronx, and the central portion of Queens.  
 
-My expectation is that arrests would be highest in areas of the highest population density, assuming that some rate of all people would commit crimes, so more arrests would follow more people.  
+My expectation is that arrests would be highest in areas of the highest population density, assuming that some rate of all people would commit crimes, so more police enforcement and arrests would follow in areas with more people.  
 
 ## Arrest Density on 2020 census tracts  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_arrest_dens.png" />  
