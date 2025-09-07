@@ -59,17 +59,30 @@ The low-high and high-low areas are those which show that some other factors mus
 
 # Emergency Food Supply Gap - 2024 data mapped on 2020 Neighbourhood Tabulation Areas  
 
-## 2024 arrest rates  
+The Emergency Food Supply Gap dataset includes estimates for each neighbourhood of the gap between required and supplied emergency food, the percentage of food insecurity, the rate of unemployment, and the presence of vulnerable populations, those being under 18, 65 or older, foreign born non-citizens, or veterans.  
+
+We are looking at this dataset in relation to arrest rates to see if there is a correlation between arrests and typically stated exacerbators of crime, like unemployment and food insecurity.
+
+## 2024 arrest rates on 2020 Neighbourhood Tabulation Areas
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrest_counts.png" />  
+
+We see high rates of arrests in midtown Manhattan, Harlem, South Bronx, North and East Queens, South and East Brooklyn, and North Eastern Staten Island.
 
 ## 2024 food insecurity  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_foodinsecurity_yellow_high.png" />  
 
+The highest rates of food insecurity are indicated in yellow. These areas include The Bronx, Harlem, and East Brooklyn, which also have high arrest rates. However there are areas with high arrest rates and without high food insecurity, such as midtown Manhattan, and North and East Queens.  
+
 ## 2024 unemployment estimates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_unemployment_yellow_high.png" />  
+
+The highest rates of unemployment are indicated in yellow. These areas include The Bronx, Harlem, East Brooklyn, and East Queens, which also have high arrest rates.  
+
+Most of these areas are those same areas with high food insecurity.  
 
 ## 2024 vulnerable populations
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_vulnerable_pop_yellow_high.png" />  
 
 ## Pairs plot of arrest rates and food and vulnerability estimates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrests_food_insecurity_pairs.png" />  
+
