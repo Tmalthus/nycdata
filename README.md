@@ -9,6 +9,8 @@ Tools used include Python, QGIS, and GeoDa.
 NYPD historic arrest records, 2006 - 2024  
 https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u/about_data  
 
+limited to arrest records between 2021 and 2024, inclusive
+
 2020 Census Tracts  
 https://data.cityofnewyork.us/City-Government/2020-Census-Tracts/63ge-mke6/about_data  
 
@@ -28,8 +30,7 @@ https://data.cityofnewyork.us/City-Government/2020-Census-Tracts-to-2020-NTAs-an
 Emergency Food Supply Gap  
 Unmet food need and estimates of vulnerable, food insecure, and unemployed populations  
 https://data.cityofnewyork.us/City-Government/Emergency-Food-Supply-Gap/4kc9-zrs2/about_data  
-
-# Census mapping  
+ 
 
 ## 2020 Population Density on 2020 census tracts  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/census_2020_pop_dens.png" />  
@@ -56,32 +57,19 @@ This plot shows clusters of tracts with high-high, low-low, low-high, and high-l
 Those high-high and low-low areas are those where the population and arrest densities are similar, and follow that weak positive relationship linking the densities.  
 The low-high and high-low areas are those which show that some other factors must influence the arrest rates, because that linking relationship is not followed.  
 
+# Emergency Food Supply Gap - 2024 data mapped on 2020 Neighbourhood Tabulation Areas  
 
-# Neighbourhood area mapping 2010 definitions   
-
-## NTA 2010 pop density  
-<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_pop_dens.png" />  
-
-## NTA 2010 arrest density  
-<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_arrest_dens.png" />  
-
-## NTA 2010 High Low Cluster Map of population and arrest densities  
-<img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2010_dens_BiLISA_cluster_pop_arrest.png" />  
-
-# Neighbourhood area mapping 2020 definitions   
-
-## NTA 2010 arrest rates  
+## 2024 arrest rates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrest_counts.png" />  
 
-## NTA 2010 food insecurity  
+## 2024 food insecurity  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_foodinsecurity_yellow_high.png" />  
 
-## NTA 2010 unemployment estimates  
+## 2024 unemployment estimates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_unemployment_yellow_high.png" />  
 
-##NTA 2010 vulnerable populations  
+## 2024 vulnerable populations
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_vulnerable_pop_yellow_high.png" />  
 
 ## Pairs plot of arrest rates and food and vulnerability estimates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrests_food_insecurity_pairs.png" />  
-
