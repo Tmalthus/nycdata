@@ -25,18 +25,9 @@ https://www.nyc.gov/content/planning/pages/resources/datasets/neighborhood-tabul
 Equivalence keys linking 2020 Census Tracts to 2020 NTAs  
 https://data.cityofnewyork.us/City-Government/2020-Census-Tracts-to-2020-NTAs-and-CDTAs-Equivale/hm78-6dwm/about_data  
 
-Indicators of broadband adoption and infrastructure by NTA  
-https://data.cityofnewyork.us/City-Government/Internet-Master-Plan-Adoption-and-Infrastructure-D/fg5j-q5nk/about_data  
-
 Emergency Food Supply Gap  
 Unmet food need and estimates of vulnerable, food insecure, and unemployed populations  
 https://data.cityofnewyork.us/City-Government/Emergency-Food-Supply-Gap/4kc9-zrs2/about_data  
-
-School Location points 2024  
-https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr/about_data
-
-Homebase Office locations 2023 (Homeless Prevention Network)  
-https://data.cityofnewyork.us/Social-Services/Directory-Of-Homebase-Locations/ntcm-2w4k/about_data  
 
 # Census mapping  
 
