@@ -78,11 +78,14 @@ The highest rates of food insecurity are indicated in yellow. These areas includ
 
 The highest rates of unemployment are indicated in yellow. These areas include The Bronx, Harlem, East Brooklyn, and East Queens, which also have high arrest rates.  
 
-Most of these areas are those same areas with high food insecurity.  
+Most of these areas are those same areas with high food insecurity, so there is a clear relationship between these factors.  
 
 ## 2024 vulnerable populations
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_vulnerable_pop_yellow_high.png" />  
 
+There are high populations of vulnerable people in West Brooklyn and North Queens. North Queens has high arrest rates, however West Brooklyn has low arrest rates. So there is not a clear positive or negative relationship between vulnerable populations and arrest rates.  
+
 ## Pairs plot of arrest rates and food and vulnerability estimates  
 <img width="2928" height="1926" alt="Image" src="https://github.com/Tmalthus/nycdata/blob/main/nta2020_arrests_food_insecurity_pairs.png" />  
 
+The pairs plots show all combinations of these variables. There are weak to moderate positive correlations between unemployment and arrest rates, 0.294, and food insecurity and arrest rates 0.245.  
