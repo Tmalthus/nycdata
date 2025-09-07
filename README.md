@@ -1,6 +1,8 @@
 # nycdata  
 
-Mapping project to explore correlations between NYPD arrests and population density, food insecurity, and unemployment  
+A mapping project to explore correlations between NYPD arrests and population density, food insecurity, and unemployment.  
+
+Tools used include Python, QGIS, and GeoDa.  
 
 ## Data Sources  
 
